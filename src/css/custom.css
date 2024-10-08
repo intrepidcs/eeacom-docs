@@ -49,3 +49,29 @@ footer .footer__links > div:nth-child(1) a, footer .footer__links > div:nth-chil
 .footer__link-item svg {
   display: none;
 }
+
+.eeacom-img img {
+  width: 500px;
+}
+
+figcaption{
+  font-weight: bold;
+  font-style: oblique;
+}
+.no-style-list ul {
+  list-style: none;
+  /* margin-bottom: 3px; */
+}
+
+.no-style-list li {
+  color: #f15a28 
+}
+
+.no-style-list h2{
+  margin-bottom: 3px;
+  color: #f15a28 
+}
+
+#contents{
+  color: #f15a28 
+}

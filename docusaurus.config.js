@@ -41,8 +41,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          //showLastUpdateAuthor: false, // Hide the author's name
-          //showLastUpdateTime: true, // Show the exact time of the last update
+          showLastUpdateAuthor: false, // Hide the author's name
+          showLastUpdateTime: true, // Show the exact time of the last update
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           routeBasePath: '/',
@@ -53,18 +53,18 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        // sitemap: {
-        //   lastmod: 'date',
-        //   changefreq: 'weekly',
-        //   priority: 0.5,
-        //   ignorePatterns: ['/test/**', '/markdown-page/**'],
-        //   filename: 'sitemap.xml',
-        //   createSitemapItems: async (params) => {
-        //     const {defaultCreateSitemapItems, ...rest} = params;
-        //     const items = await defaultCreateSitemapItems(rest);
-        //     return items.filter((item) => !item.url.includes('/page/'));
-        //   },
-        // },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/test/**', '/markdown-page/**'],
+          filename: 'sitemap.xml',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
+        },
       }),
     ],
   ],
