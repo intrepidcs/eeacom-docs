@@ -1,7 +1,7 @@
 ---
-title: "test"
-description: test
-keywords: [test]
+title: "CAN/CAN FD Cluster Management in AUTOSAR ARXML Files - ECU Connectors and Frame Triggering"
+description: Learn how to manage CAN/CAN FD Cluster information in AUTOSAR ARXML files using EEA COM. Add, edit, and delete clusters, configure ECU connectors, set frame triggering, and manage CAN frame identifiers with ease.
+keywords: [CAN, CAN FD, CAN Cluster, AUTOSAR ARXML, ECU Connectors, Frame Triggering, Baud Rate, CAN Frames, PNC Gateway Type, EEA COM, automotive communication]
 sidebar_position: 1
 sidebar_label: CAN/CAN FD Cluster
 ---

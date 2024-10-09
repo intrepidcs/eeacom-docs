@@ -1,9 +1,9 @@
 ---
-title: "test"
-description: test
-keywords: [test]
+title: "FlexRay Cluster Configuration in AUTOSAR ARXML - Channels, Frame Triggering, and ECU Connectors"
+description: Learn how to configure FlexRay Clusters in AUTOSAR ARXML files using EEA COM. Define FlexRay channels, manage frame triggering, set ECU connectors, and configure communication cycles for efficient FlexRay communication.
+keywords: [FlexRay Cluster, AUTOSAR ARXML, FlexRay Channels, Frame Triggering, ECU Connector, Message ID, Communication Cycle, Tx ECU, Rx ECU, Baudrate, Protocol Version]
 sidebar_position: 4
-sidebar_label: FlexRay  Cluster
+sidebar_label: FlexRay Cluster
 ---
 
 # 2.4 FlexRay Cluster
@@ -15,10 +15,15 @@ FlexRay Cluster A system consists of a set of nodes that concurrently execute a 
 ## 2.4.1 Channels {#channels}
 
 1. Add channel1 and channel2→ Channel Name (Channel A and B) → Save.
+
 2. Add Frame Triggering →  Select FlexRay Frame → Message ID → Tx ECU → Rx ECU → Save.
+
 3. Frame Triggering Details → Message ID → Allow Dynamic L SDU Length (True or false) → Payload Preamble Indicator (True or False) → Add Scheduling Timing → Communication Cycle Type (Counter or Repetition) → Slot ID → Cycle Counter→Base Cycle → Cycle Repetition → Save.
+
 4. ECU PORT → Add Tx ECU → Rx ECU  → Save
+
 5. All the information of the frame is available in the Frame Details Section.
+
 6. Add ECU Connector → Select ECU → Channel →Connector and Controller Fill the details →  Save it.
 
 fig

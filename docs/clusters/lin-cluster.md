@@ -1,7 +1,7 @@
 ---
-title: "test"
-description: test
-keywords: [test]
+title: "LIN Cluster Configuration in AUTOSAR ARXML - ECU Connector, Frame Triggering, and Schedule Tables"
+description: Configure LIN Clusters in AUTOSAR ARXML files using EEA COM. Define LIN nodes, set ECU connectors, and manage frame triggering (sporadic, unconditional, and event-triggered) along with schedule tables for optimized LIN communication.
+keywords: [LIN Cluster, AUTOSAR ARXML, LIN Nodes, LIN Master, LIN Slave, LIN Bus, LIN Frame Triggering, ECU Connector, Schedule Tables, Baudrate, PNC Gateway, LDF, LIN Checksum]
 sidebar_position: 3
 sidebar_label: LIN Cluster
 ---
@@ -11,6 +11,7 @@ sidebar_label: LIN Cluster
 A LIN cluster is defined as a number of LIN nodes connected through a physical cable. LIN clusters consist of 1 master and up to 16 slave nodes.The LIN bus connects a single master device (ECU/node) and one or more slave devices (ECU/nodes) together in a LIN cluster. All Signals in a LIN Cluster are defined in the LIN Description File(LDF).
 
 1. Add LIN cluster→ Short Name → Baudrate(Bits/s) → Protocol Name → Protocol Version → Speed → Save.
+
 2. LIN Cluster sub points ECU connector, Frame Triggerings and Schedule Table.
 
 fig

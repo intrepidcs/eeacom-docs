@@ -1,7 +1,7 @@
 ---
-title: "test"
-description: test
-keywords: [test]
+title: "J1939 Cluster Configuration in AUTOSAR ARXML - ECU Connectors and Frame Triggering"
+description: Configure J1939 Clusters in AUTOSAR ARXML files with EEA COM. Set up ECU connectors, manage CAN frame triggering, and define CAN FD support. Customize key settings like baudrate, addressing mode, and PNC gateway type for optimal heavy-duty vehicle communication.
+keywords: [J1939 Cluster, AUTOSAR ARXML, CAN Bus, ECU Connectors, CAN FD, Frame Triggering, Address Arbitration, Baudrate, PNC Gateway, CAN Frame, Tx ECU, Rx ECU]
 sidebar_position: 5
 sidebar_label: J1939 Cluster
 ---

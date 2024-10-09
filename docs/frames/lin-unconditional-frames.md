@@ -1,12 +1,12 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: LIN Unconditional Frame Configuration in AUTOSAR ARXML - PDU and Signal Management
+description: Configure LIN Unconditional Frames in AUTOSAR ARXML files for standard data communication. Assign short names and lengths to frames, and manage PDUs by selecting the appropriate type, packing byte order, and updating indication bit positions. Ensure efficient data handling between master and slave nodes.
+keywords: [LIN Unconditional Frames, AUTOSAR ARXML, Data Communication, Master Node, Slave Node, Frame Identifier, PDU, Packing Byte Order, Short Name, Frame Length]
 sidebar_position: 3
 sidebar_label: LIN Unconditional Frames
 ---
 
-# LIN Unconditional Frames
+# 4.3 LIN Unconditional Frames
 
 This frame is the normal type of LIN message format for data communication. Basically, the master node will send this frame header in a scheduled frame slot and the designated slave node will receive and fill the data and send it back. 
 

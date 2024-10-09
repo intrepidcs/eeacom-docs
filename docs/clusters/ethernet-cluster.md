@@ -1,7 +1,7 @@
 ---
-title: "test"
-description: test
-keywords: [test]
+title: "Ethernet Cluster Configuration in AUTOSAR ARXML Files - VLANs, MAC Multicast, and SOME/IP Service"
+description: Configure Ethernet Clusters in AUTOSAR ARXML files with EEA COM, including MAC Multicast Addresses, VLANs, Network Endpoints, Socket Connections, and SOME/IP Services. Add ECUs, setup socket addresses, and manage PDU details for optimal network performance.
+keywords: [Ethernet Cluster, AUTOSAR ARXML, MAC Multicast Address, VLANs, Network Endpoint, ECU Connectors, Socket Connections, SOME/IP Service, multicast, PDU, ECU, IP Address, Baudrate, IEEE 802.3]
 sidebar_position: 2
 sidebar_label: Ethernet Cluster
 ---
