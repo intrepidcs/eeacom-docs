@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Switch Configuration in AUTOSAR
+description: Learn how to configure switches in AUTOSAR using Coupling Elements that connect ECU Instances through Coupling Ports to Ethernet Physical Channels (VLANs). Discover how to define switch types, configure Coupling Ports, and manage VLAN memberships for optimal communication within an Ethernet Cluster. Enhance your understanding of network architecture in the AUTOSAR framework.
+keywords: [AUTOSAR, Switch Configuration, Coupling Elements, Ethernet Clusters, VLANs, ECU Communication]
 sidebar_position: 11
 sidebar_label: Switches
 ---

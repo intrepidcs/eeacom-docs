@@ -1,7 +1,7 @@
 ---
-title: EEA COM Help Documentation
-description: test 
-keywords: [eeacom, eeacom-docs]
+title: "EEA COM Documentation: Comprehensive Guide for AUTOSAR ECU Communication Design"
+description: Welcome to the EEA COM documentation, your comprehensive guide for designing AUTOSAR-based ECU communication matrices. This documentation caters to users of all experience levels, covering key features, user interface navigation, application areas, and detailed information on clusters, frames, protocol data units (PDUs), signals, data types, methods, events, and software components. Explore each section for in-depth insights and guidance on optimizing ECU communication. 
+keywords: [eeacom, eeacom-docs, EEA COM, AUTOSAR, ECU Communication, Communication Matrix, Documentation, CAN Cluster, Ethernet Cluster, LIN Cluster, FlexRay Cluster, J1939, Protocol Data Units, Signals, Data Types, Software Components]
 sidebar_position: 1
 slug: /
 sidebar_label: Getting started

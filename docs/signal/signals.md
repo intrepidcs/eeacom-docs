@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Creating and Managing Signals in EEA COM - AUTOSAR Signal Configuration
+description: Learn how to create and manage signals in the EEA COM software for AUTOSAR systems. Configure I Signals with parameters such as short name, length (bits), units, and data types like Base Type, Compute Method, and Data Transformation. Ensure accurate data transmission by defining the appropriate signal attributes for your system.
+keywords: [Signal creation, EEA COM, AUTOSAR, I Signals, Signal management, Base Type, Compute Method, Data Constraint]
 sidebar_position: 1
 sidebar_label: "| Signals"
 ---

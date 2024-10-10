@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Composition Software Component Type in AUTOSAR
+description: Learn about the Composition Software Component Type in AUTOSAR, which serves to aggregate software component prototypes without implementing functionality. Discover how to configure the number of components, assembly connectors, and the relationships between provided and required ports, enhancing the modularity and organization of your automotive software architecture.
+keywords: [AUTOSAR, Composition Software Component, Software Component Prototypes, ECU Architecture, Provided Components, Required Components, Assembly Connectors]
 sidebar_position: 3
 sidebar_label: Composition SW Component Type 
 ---

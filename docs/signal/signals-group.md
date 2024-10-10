@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title:  Signal Group Management in EEA COM - AUTOSAR Group Signal Configuration
+description: Configure Signal Groups in EEA COM software for AUTOSAR systems. Group multiple I Signals to be transmitted simultaneously, ensuring efficient data transmission. Learn how to create, select, and manage ISignalGroups for streamlined communication within ECU networks. Enhance system performance by effectively organizing related signals in groups.
+keywords: [Signal Group, EEA COM, AUTOSAR, Group Signals, Signals, Signal Management]
 sidebar_position: 2
 sidebar_label: "|  Signals Group"
 ---

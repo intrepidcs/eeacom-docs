@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Data Transformation Set in AUTOSAR
+description: Learn about the Data Transformation Set in AUTOSAR, which enables efficient data handling through various transformation technologies like SOMEIP and ENDTOEND. Discover how to configure transformation parameters, including header lengths, alignment, and error states, to enhance data communication and management in automotive systems.
+keywords: [AUTOSAR, Data Transformation Set, Transformation Technologies, SOMEIP, ENDTOEND, Data ID Mode, ECU Configuration, Data Management, Communication Protocols]
 sidebar_position: 1
 sidebar_label: Data Transformation Set
 ---

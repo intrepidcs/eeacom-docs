@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: "Application Software Component Type in AUTOSAR"
+description: Explore the Application Software Component Type in AUTOSAR, which defines atomic software components that implement specific applications. Learn how to configure provided and required ports, including methods and events, ensuring efficient communication and functionality within your ECU environment. Discover the significance of atomic components in automotive software architecture.
+keywords: [AUTOSAR, Application Software Component, Atomic Component, ECU Configuration, Provided Ports, Required Ports, Methods, Events]
 sidebar_position: 2
 sidebar_label: Application SW Component Type 
 ---

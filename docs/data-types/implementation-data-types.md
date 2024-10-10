@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Creating and Defining Implementation Data Types in EEA COM
+description: Learn how to define Implementation Data Types in EEA COM. Explore options for different types such as Value, Array, and Structure. Understand how to reference Base Types, apply Compute Methods, and use Data Constraints to refine data handling for ECU configurations.
+keywords: [Implementation Data Type, Base Type, Data Constraints, Compute Method, Array, Structure, Type Reference, EEA COM, Linear Equation, Raw Value, Denominator]
 sidebar_position: 5
 sidebar_label: "Implementation Data Type"
 ---

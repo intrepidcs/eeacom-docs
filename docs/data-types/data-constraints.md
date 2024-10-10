@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Configuring Data Constraints in EEA COM - AUTOSAR Data Constraints Setup
+description: Configure data constraints in EEA COM for AUTOSAR systems. Define physical and internal constraints for data types, including upper and lower limits and validity parameters. Efficiently manage data integrity and system constraints to optimize ECU communication and performance.
+keywords: [Data Constraints, EEA COM, AUTOSAR, Physical Constraints, Internal Constraints, Data Type Limits, ECU Data Management]
 sidebar_position: 1
 sidebar_label: "Data Constraints"
 ---

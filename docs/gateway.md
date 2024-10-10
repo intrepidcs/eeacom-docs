@@ -1,7 +1,7 @@
 ---
-title: test
-description: test
-keywords: [test]
+title: Gateway Configuration in AUTOSAR
+description: Discover how to configure gateways in AUTOSAR, which facilitate communication between multiple Communication Clusters through Frame Mapping, IPDU Mapping, and ISignal Mapping functions. Learn the steps to add gateways, set PDU mappings, and manage configurations for optimal data transfer between source and target channels. Enhance your knowledge of communication architectures in the AUTOSAR framework.
+keywords: [AUTOSAR, Gateway Configuration, Frame Mapping, IPDU Mapping, ISignal Mapping, Communication Clusters]
 sidebar_position: 12
 sidebar_label: Gateway
 ---
