@@ -102,7 +102,7 @@ This documentation was created to help EEA COM users at every level of experienc
 - 9.4 [System](/software-components/system/)
 
 ## 10. [Switches](/switches/)
-- 10.1 [Coupling Elements](/switches/#coupling-elements/)
+- 10.1 [Coupling Elements](/switches/#coupling-elements)
 
 ## 11. [Gateway](/gateway/)
 </div>
