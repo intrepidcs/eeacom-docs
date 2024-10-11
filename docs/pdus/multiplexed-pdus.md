@@ -8,7 +8,14 @@ sidebar_label: "Multiplexed | PDUs"
 
 # 5.6 Multiplexed | PDUs
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Multiplexed | PDUs](../assets/image10.webp "- Multiplexed | PDUs")
+<figcaption>Fig. Multiplexed | PDUs </figcaption>
+</figure>
+</div>
 
 1. Add Multiplexed I PDU → Short Name → Length(bytes)→ Selector Field Byte Order( MOST SIGNIFICANT BIT FIRST, MOST SIGNIFICANT BYTE LAST and OPAQUE) →  Selector Field  Length(bits) →  Selector Field  start Position →Trigger Mode (DYNAMIC PART TRIGGER,STATIC OR DYNAMICPORT 
 TRIGGER, STATIC PORT TRIGGER and NONE) → Dynamic part and Static Part.Dynamic Part  Number of Segment Byte Order( MOST SIGNIFICANT BIT FIRST, MOST SIGNIFICANT BYTE LAST and OPAQUE) →  Segment Length(bits) → Segment Position → Save.

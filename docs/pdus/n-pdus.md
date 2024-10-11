@@ -11,4 +11,11 @@ sidebar_label: "N PDUs"
 Whenever the PDU is in layers below PDUR and above the Communication Drivers layer  then it is called N-PDU.
 Add N PDU → Short Name→ Length→ Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![N PDUs](../assets/image33.webp "- N PDUs")
+<figcaption>Fig. N PDUs </figcaption>
+</figure>
+</div>

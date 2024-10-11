@@ -12,8 +12,22 @@ PDU contains information other than our data which is used or extracted by below
                
 The PDUs tab on EEA COM software shows multiple types of PDUs.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![PDUs Types](../assets/image26.webp "- PDUs Types")
+<figcaption>Fig. PDUs Types</figcaption>
+</figure>
+</div> 
 
 Here is  one more thing: we can copy the PDU signals and paste. Also paste signals multiple times we can paste here  and also create the duplicate signals.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![PDUs copy paste option](../assets/image15.webp "- PDUs copy paste option")
+<figcaption>Fig. PDUs copy paste option</figcaption>
+</figure>
+</div> 

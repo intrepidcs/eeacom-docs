@@ -11,7 +11,14 @@ In | Signals add the signals ,save and delete options are available.I Signals we
 
 Steps to create I Signals is shown in below snap -
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Signals](../assets/image35.webp "- Signals")
+<figcaption>Fig. | Signals</figcaption>
+</figure>
+</div>
 
 In signals we select or create the data types .
 1. Base Type

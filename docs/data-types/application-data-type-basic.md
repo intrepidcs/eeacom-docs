@@ -10,4 +10,11 @@ sidebar_label: "Application Data Type (Basic)"
 
 1. Add Application Data Type (Basic) → Short Name → Type (VALUE, BOOLEAN and STRING) → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Application Data Type (Basic)](../assets/image19.webp "- Application Data Type (Basic)")
+<figcaption>Fig. Application Data Type (Basic)</figcaption>
+</figure>
+</div>

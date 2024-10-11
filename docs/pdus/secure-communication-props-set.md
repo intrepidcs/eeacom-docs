@@ -14,4 +14,11 @@ sidebar_label: "Secure Communication Props Set"
 
 3. Add Freshness Props → Short Name → Category → Counter Sync Attempts → Time Stamp Time Periodic Factor → Value Length → Value Tx Length → Use Time Stamp (True and False) →  Save
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Secure Communication Props Set PDUs](../assets/image5.webp "- Secure Communication Props Set PDUs")
+<figcaption>Fig. Secure Communication Props Set PDUs</figcaption>
+</figure>
+</div>

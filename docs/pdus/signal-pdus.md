@@ -10,7 +10,14 @@ sidebar_label: "Signal | PDUs"
 
 Steps to create I Signals I PDU is shown in below snap -
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Signal | PDUs](../assets/image44.webp "- Signal | PDUs")
+<figcaption>Fig. Signal | PDUs</figcaption>
+</figure>
+</div> 
 
 1. Add I Signal I PDUs → Short Name → Length(Bytes) → Minimum Delay (seconds)  –>  Save.
 2. Create Signal or Select Signal → Short Name → Length(bits) → Description→ Unit →Save.

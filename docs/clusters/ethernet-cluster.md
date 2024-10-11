@@ -11,7 +11,14 @@ sidebar_label: Ethernet Cluster
 Ethernet cluster is a group of ECUs interconnected via ethernet protocol (IEEE 802.3).
 To access the Ethernet Cluster window, click on Ethernet →  Ethernet Cluster → Short Name → Baudrate(bits/s)→ Protocol Name→ Protocol Version → Speed →  Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Ethernet Cluster](../assets/image38.webp "Ethernet - Cluster")
+<figcaption>Fig. Ethernet Cluster</figcaption>
+</figure>
+</div>
 
 ## 2.2.1 MAC Multicast Address {#mac-multicast-address}
 
@@ -33,7 +40,14 @@ VLANs (Virtual LAN) can be created by assigning a VLAN ID (which is a valid hexa
 
 An “endpoint” is a logical point that communicates back and forth with a network to which it is connected. In a network, it represents the endpoint for traffic associated with a specific protocol layer. An IP endpoint sends and receives packets to and from specific IP addresses.    
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Network EndPoint in Ethernet Cluster](../assets/image27.webp "Network EndPoint in - Ethernet Cluster")
+<figcaption>Fig. Network EndPoint in Ethernet Cluster</figcaption>
+</figure>
+</div>
 
 1. Assign a short name to the address type (IPv4 or IPv6) → IP address (for example IPv4 → 192.0.2.146 or IPv6 →  2001:db8:3333:4444:CCCC:DDDD:EEEE:FFFF) → Save it.
 
@@ -41,7 +55,14 @@ fig
 
 ### 2.2.3.2 ECU Connectors {#ecu-connectors}
 
-fig
+<div class="text--center">
+
+<figure>
+
+![ECU Connectors in Ethernet Cluster](../assets/image29.webp "ECU Connectors in - Ethernet Cluster")
+<figcaption>Fig. ECU Connectors in Ethernet Cluster</figcaption>
+</figure>
+</div>
 
 We can add multiple ECUs. ECU → Connector →  PNC Gateway Type(Active,None and Passive) → Maximum Transmission Unit → Path MTU Timeout→ Save it.
 
@@ -51,7 +72,14 @@ We can add multiple ECUs. ECU → Connector →  PNC Gateway Type(Active,None an
    
 2.  Select Unicast ECU or Select Multicast ECU→ Select Network Endpoint → save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Socket Address in Ethernet Cluster](../assets/image55.webp "Socket Address in - Ethernet Cluster")
+<figcaption>Fig. Socket Address in Ethernet Cluster</figcaption>
+</figure>
+</div>
 
 ### 2.2.3.4 Socket Connections {#socket-connections}
 
@@ -65,7 +93,14 @@ fig
 
 1. Add → ECU Name → SD Type → IP Address → Port Address → Save Number of Service Discoveries.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Socket Connection in Ethernet Cluster](../assets/image3.webp "Socket Connection in - Ethernet Cluster")
+<figcaption>Fig. Socket Connection in Ethernet Cluster</figcaption>
+</figure>
+</div>
 
 ## 2.2.4 SOME/IP Service {#some-ip-service}
 
@@ -74,13 +109,27 @@ fig
 2. Consumer Service Details  
     Add Method→ Method Name → Method ID → Select Method Type → Select Request PDU→Select Response PDU → Select Provider Port → Select Required Port →Save. 
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Add Method](../assets/image30.webp "- Add Method")
+<figcaption>Fig. Add Method</figcaption>
+</figure>
+</div>
 
 3. Method Details→ Min value → Max Value → Enter Value→ Simulation (Python vspyx someip simulation).(Note   Please Connect Devices and Fill the required Details).
 
 4. Add Event→ Name→ Event ID → Event Handler → Select PDU → Select   Provider   Port → Select Required Port→ Save. 
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Add Event](../assets/image48.webp "- Add Event")
+<figcaption>Fig. Add Event</figcaption>
+</figure>
+</div>
 
 5. Event Details→  Min value→ Max Value → Enter Value → Simulation (Python vspyx someip simulation).(Note   Please Connect Devices and Fill the required Details).
 

@@ -14,4 +14,11 @@ sidebar_label: System
 
 3. Add Number of SWC To ECU Mappings → Select ECU → Select Root Component → Select Application SW Component → Target Component Name → Save it.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![System](../assets/image16.webp "- System")
+<figcaption>Fig. System </figcaption>
+</figure>
+</div>

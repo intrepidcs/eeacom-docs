@@ -12,4 +12,11 @@ sidebar_label: CAN Frames
 2. Create PDU →Select PDU Type → Short Name → Packing Byte Order → Start Position → Update Indication Bit Position → Save.
 3. Create or Select Signal → Short Name →Type → Transfer Property →  Packing Byte Order → Start Position → Update Indication Bit Position→ Length(bits) → Select Any one (Base Type /Compute Method/Data Constraint/Implementation Data Type/Data transformation ) → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![CAN Frame](../assets/image60.webp "- CAN Frame")
+<figcaption>Fig. CAN Frame</figcaption>
+</figure>
+</div> 

@@ -10,4 +10,11 @@ sidebar_label: "General Purpose PDUs"
 
 Add General Purpose PDU → Length(Bytes) → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![General Purpose PDU](../assets/image36.webp "- General Purpose PDU")
+<figcaption>Fig. General Purpose PDU</figcaption>
+</figure>
+</div>

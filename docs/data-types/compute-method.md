@@ -19,5 +19,12 @@ There are mainly three categories of compute methods:
 3. Scale-Linear: It is a table of linear compute methods.  
 Add Compute Method→ Short Name→ Type (Identical, Linear, State Encoded, Scale Linear, Scale Linear and State Encoded, Bit Field State Encode and Rat Function) → Unit →Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Compute Methods](../assets/image54.webp "- Compute Methods")
+<figcaption>Fig. Compute Methods</figcaption>
+</figure>
+</div>
 

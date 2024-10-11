@@ -10,4 +10,11 @@ sidebar_label: "DCM | PDUs"
 
 1. Add DCM I PDU → Short Name → Length(Bytes) → Diag Type(DIAGREQUEST and DIAGRESPONSE) → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![DCM | PDUs](../assets/image11.webp "- DCM | PDUs")
+<figcaption>Fig. DCM | PDUs</figcaption>
+</figure>
+</div> 

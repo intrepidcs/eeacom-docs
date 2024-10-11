@@ -13,7 +13,14 @@ FlexRay is a communication bus designed to ensure high data rates, fault toleran
 1. Add FlexRay Frame→ Short Name → Length(bytes)→  Save
 2. Create PDU or Select PDU →  Select  PDU Type –> Short Name –> Packing Byte Order (MOST SIGNIFICANT BIT FIRST, MOST SIGNIFICANT BYTE LAST and OPAQUE)--> Start Position –> Update Indication –> Save.  
 
-fig
+<div class="text--center">
+
+<figure>
+
+![FlexRay Frame](../assets/image7.webp "- FlexRay Frame")
+<figcaption>Fig. FlexRay Frame</figcaption>
+</figure>
+</div> 
 
 
 

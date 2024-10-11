@@ -18,4 +18,11 @@ The options for creating a PDU and selecting a PDU are available. When selecting
 1. Add LIN Unconditional Frames→ Short Name → Length (bytes) → Save 
 2. Create PDU or Select PDU →  Select PDU → Type → All the details of PDU are displayed →  Short Name → Packing Byte order → Start Position → Update Indication → Save. 
 
-fig
+<div class="text--center">
+
+<figure>
+
+![LIN Unconditional Frame](../assets/image46.webp "- LIN Unconditional Frame")
+<figcaption>Fig. LIN Unconditional Frame</figcaption>
+</figure>
+</div> 

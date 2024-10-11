@@ -10,5 +10,12 @@ sidebar_label: "|  Signals Group"
 
 A Signal Group is a set of signals to be transmitted at the same instance and the signals packed in a Signal Group are known as Group Signals.In the i signal group we create or select the more i signals.And also we add multiple ISignalGroups also.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Signals Group](../assets/image9.webp "- Signals Group")
+<figcaption>Fig. | Signals Group</figcaption>
+</figure>
+</div>
 

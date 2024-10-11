@@ -10,7 +10,14 @@ sidebar_label: CAN/CAN FD Cluster
 
 To view the CAN Cluster information, select CAN, and EEA COM will display all the related details as shown in the screenshot below. EEA COM provides the ability to add, edit, and delete cluster information in AUTOSAR ARXML files.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![CAN/CAN FD Cluster](../assets/image28.webp "CAN/CAN FD - Cluster")
+<figcaption>Fig. CAN/CAN FD Cluster</figcaption>
+</figure>
+</div>
 
 We can add multiple clusters and assign values to the following parameters: short name, Baud Rate (bits/s), protocol names (e.g., TCP and UDP), speed, and CAN FD Baud Rate (bits/s).
 
@@ -18,10 +25,24 @@ We can add multiple clusters and assign values to the following parameters: shor
 
 We can add ECUs and fill in the information related to them. There are two parts: the connector and the controller. Please select the PNC Gateway Type (Active, Passive, or None).
 
-fig
+<div class="text--center">
+
+<figure>
+
+![ECU Connectors](../assets/image23.webp "ECU - Connectors")
+<figcaption>Fig. ECU Connectors</figcaption>
+</figure>
+</div>
 
 ## 2.1.2 Frame Triggerings {#frame-triggerings} 
 
 Add CAN frames and select CAN frames. For frame triggering details, assign the identifier in hexadecimal format (for example, 0x164). Choose the CAN frames that meet the specified requirements. In the ECU ports, select both Tx and Rx ECUs. Ensure that all information related to the frame is available in the Frame Details section. 
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Frame Triggering in CAN Cluster](../assets/image49.webp "Frame Triggering in CAN Cluster")
+<figcaption>Fig. Frame Triggering in CAN Cluster</figcaption>
+</figure>
+</div>

@@ -14,7 +14,14 @@ A LIN cluster is defined as a number of LIN nodes connected through a physical c
 
 2. LIN Cluster sub points ECU connector, Frame Triggerings and Schedule Table.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![LIN Cluster](../assets/image25.webp "- LIN Cluster")
+<figcaption>Fig. LIN Cluster</figcaption>
+</figure>
+</div>
 
 ## 2.3.1 ECU Connector {#ecu-connector}
 
@@ -22,7 +29,14 @@ fig
 
 2. Connector and controller two parts are there. Controller part Controller Type → Wakeup By Controller Supported (True or false) → Protocol version –> Configured Nad –> Function Id → Supplier Id → variant Id → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![ECU Connector in LIN Cluster](../assets/image37.webp "- ECU Connector in LIN Cluster")
+<figcaption>Fig. ECU Connector in LIN Cluster</figcaption>
+</figure>
+</div>
 
 ## 2.3.2 Frame Triggering {#frame-triggering} 
 
@@ -30,10 +44,24 @@ fig
 
 2. Frame Triggering Details → ECU Port(Here we select Tx and Rx ECUs) → Frame Details available.
 
-fig 
+<div class="text--center">
+
+<figure>
+
+![Frame Triggering in  LIN Cluster](../assets/image43.webp "Frame Triggering in - LIN Cluster")
+<figcaption>Fig. Frame Triggering in  LIN Cluster</figcaption>
+</figure>
+</div> 
 
 ## 2.3.3 Schedule Tables {#schedule-tables}
 
 1. Add schedule table → Short Name → Resume Position→ Run mode→ Save. Add Entry→ Select LIN Frame Triggering→ Enter Type→ Position in Table→ Delay → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Schedule Table in  LIN Cluster](../assets/image22.webp "Schedule Table in - LIN Cluster")
+<figcaption>Fig. Schedule Table in LIN Cluster</figcaption>
+</figure>
+</div> 

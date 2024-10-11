@@ -12,4 +12,11 @@ sidebar_label: "NM PDUs"
    
 2. Create Signal Or Select Signal→ Select I  Signals → Short Name → Type→ Packing Byte Order → Start Position → Transfer Property → Update Indication →Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![NM PDUs](../assets/image17.webp "- NM PDUs")
+<figcaption>Fig. NM PDUs </figcaption>
+</figure>
+</div>

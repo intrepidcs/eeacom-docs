@@ -21,8 +21,29 @@ sidebar_label: "Secured | PDUs"
 5. Freshness Props  
     Add→ Select Secure Freshness Props→ Category → Freshness Counter Sync Attempts→ Freshness Time Stamp Time Period Factor→ Freshness Value Length → Freshness Value Tx Length → Use Freshness Timestamp → Save.
 
-fig 
+<div class="text--center">
 
-fig
+<figure>
 
-fig
+![Secured | PDUs](../assets/image1.webp "- Secured | PDUs")
+<figcaption>Fig. Secured | PDUs</figcaption>
+</figure>
+</div> 
+
+<div class="text--center">
+
+<figure>
+
+![Payload in Secured | PDUs](../assets/image52.webp "- Payload in Secured | PDUs")
+<figcaption>Payload in Secured | PDUs</figcaption>
+</figure>
+</div>
+
+<div class="text--center">
+
+<figure>
+
+![Freshness Props In Secured | PDUs](../assets/image34.webp "- Freshness Props In Secured | PDUs")
+<figcaption>Fig. Freshness Props In Secured | PDUs</figcaption>
+</figure>
+</div>

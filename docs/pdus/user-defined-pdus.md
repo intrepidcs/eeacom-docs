@@ -10,4 +10,11 @@ sidebar_label: "User Defined PDUs"
 
 Add User Defined PDU → Short Name → Length → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![User Defined PDUs](../assets/image21.webp "- User Defined PDUs")
+<figcaption>Fig. User Defined PDUs</figcaption>
+</figure>
+</div>

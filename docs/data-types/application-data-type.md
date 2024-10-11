@@ -19,6 +19,21 @@ Create Array Data Type:
 
 3. Add Application Data Types(Array) → Short Name → Size semantic (Fixed Size, Variable Size(Old) and Variable Size (New)), Dimension (One Dimensional and Multidimensional) →Save
 
-fig
+<div class="text--center">
 
-fig
+<figure>
+
+![Application Data Type(Array)](../assets/image8.webp "- Application Data Type(Array)")
+<figcaption>Fig. Application Data Type(Array)</figcaption>
+</figure>
+</div>
+
+
+<div class="text--center">
+
+<figure>
+
+![Arxml File](../assets/image31.webp "- Arxml File")
+<figcaption>Fig. Arxml File</figcaption>
+</figure>
+</div>

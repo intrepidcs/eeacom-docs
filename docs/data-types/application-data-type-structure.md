@@ -10,4 +10,11 @@ sidebar_label: "Application Data Type (Structure)"
 
 1. Add Application Data Type (Structure) → Short Name →Add and Select Data Types( VALUE, BOOLEAN, STRING, ARRAY and STRUCTURE) → Add multiple Elements → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Application Data Type (Structure)](../assets/image58.webp "- Application Data Type (Structure)")
+<figcaption>Fig. Application Data Type (Structure)</figcaption>
+</figure>
+</div>

@@ -14,5 +14,12 @@ A Data Constraint is used to decorate other data types with one or more constrai
 
 2. Add Internal Constraints → Short Name  → Lower and Upper Limit→ Lower and Upper Limit Interval → Validity(NOTAVAILABLE, NOT DEFINED, NOT VALID, VALID) → Save Internal Constraints.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Data Constraints](../assets/image2.webp "- Data Constraints")
+<figcaption>Fig. Data Constraints</figcaption>
+</figure>
+</div>
 

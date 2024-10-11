@@ -10,4 +10,11 @@ sidebar_label: "J1939 DCM | PDUs"
 
 Add J1939 DCM I PDUs → Length(Bytes) → Diagnostic Message Type → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![J1939 DCM | PDUs](../assets/image12.webp "- J1939 DCM | PDUs ")
+<figcaption>Fig. J1939 DCM | PDUs </figcaption>
+</figure>
+</div>

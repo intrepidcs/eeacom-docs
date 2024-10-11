@@ -22,4 +22,11 @@ A CouplingElement references the EthernetCluster and contains a collection of av
 
 3. Add Number of VLAN Memberships → Select VLAN Channel → Default Priority (0 to 7) → Send Activity ( NOTSENT, SENT TAGGED, SENTUNTAGGED)→ Channel Name → VLAN Identifier → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Switches(Coupling Elements)](./assets/image62.webp "- Switches (Coupling Elements)")
+<figcaption>Fig. Switches(Coupling Elements) </figcaption>
+</figure>
+</div>

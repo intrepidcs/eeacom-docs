@@ -10,4 +10,11 @@ sidebar_label: "XCP PDUs"
 
 Add  XCP PDU→ Short Name→ Length(Bytes) → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![XCP PDUs](../assets/image13.webp "- XCP PDUs")
+<figcaption>Fig. XCP PDUs</figcaption>
+</figure>
+</div>

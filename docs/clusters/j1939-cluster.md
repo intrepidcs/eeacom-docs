@@ -21,4 +21,11 @@ J1939 is a set of standards that define how ECUs communicate via the CAN bus in 
 
 1. Add and Select CAN Frame→ Short Name→Identifier → CAN Addressing Mode → Tx ECU → Rx ECUs → CAN FD Frame Support → Save. ECU port → Select Tx and Rx ECUs. All CAN Frame details available in Frame detail section.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![J1939 Cluster](../assets/image56.webp "- J1939 Cluster")
+<figcaption>Fig. J1939 Cluster</figcaption>
+</figure>
+</div> 

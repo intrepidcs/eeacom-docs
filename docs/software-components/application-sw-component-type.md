@@ -16,4 +16,11 @@ The application software component is an atomic software component that implemen
 
 3. Add Number of Provided And Required Ports→ Select Type (Methods and Events) → Save it.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Application SW Component Type](../assets/image32.webp "- Application SW Component Type")
+<figcaption>Fig. Application SW Component Type</figcaption>
+</figure>
+</div>

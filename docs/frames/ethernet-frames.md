@@ -13,4 +13,11 @@ An Ethernet frame starts with a header, which contains the source and destinatio
 1. Add Ethernet Frame → Short Name → Length(bytes)→ Save.
 2. Create PDU or Select PDU →  Select  PDU Type → Short Name →Packing Byte Order (MOST SIGNIFICANT BIT FIRST, MOST SIGNIFICANT BYTE LAST and OPAQUE)→ Start Position → Update Indication → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Ethernet Frames](../assets/image57.webp "- Ethernet Frames")
+<figcaption>Fig. Ethernet Frames</figcaption>
+</figure>
+</div> 

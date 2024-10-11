@@ -22,4 +22,11 @@ Implementation Data Types is a very generic container and can define almost any 
 
 6.  If we select STRUCTURE → Short Name → Type → Elements → Add Value Element → Add Array Element → Add Struct Element → Add Type Reference Element → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Implementation Data Type](../assets/image61.webp "- Implementation Data Type")
+<figcaption>Fig. Implementation Data Type</figcaption>
+</figure>
+</div>

@@ -18,4 +18,11 @@ In the below figure add the frames and assign a short name to the frame. Add and
 1. Add LIN Event Triggered Frames→ Short Name → Length(Bytes) → Save.
 2. Add Frame → Select Frame → LIN Unconditional Frame → Save.(Remove Frame option is also available)
 
-fig
+<div class="text--center">
+
+<figure>
+
+![LIN Event Triggered Frame](../assets/image40.webp "- LIN Event Triggered Frame")
+<figcaption>Fig. LIN Event Triggered Frame</figcaption>
+</figure>
+</div> 

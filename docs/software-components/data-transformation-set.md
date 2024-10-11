@@ -19,4 +19,11 @@ Technology Type (SOMEIP)→ Version → Has Internal State (True or False) →Ne
 
 5. Add Data Transformation → Short Name →Add Transformation Technologies →Save. 
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Data Transformation Set](../assets/image53.webp "- Data Transformation Set")
+<figcaption>Fig. Data Transformation Set</figcaption>
+</figure>
+</div>

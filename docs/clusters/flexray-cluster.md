@@ -26,4 +26,11 @@ FlexRay Cluster A system consists of a set of nodes that concurrently execute a 
 
 6. Add ECU Connector → Select ECU → Channel →Connector and Controller Fill the details →  Save it.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![FlexRay Cluster](../assets/image59.webp "- FlexRay Cluster")
+<figcaption>Fig. FlexRay Cluster</figcaption>
+</figure>
+</div> 

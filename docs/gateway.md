@@ -12,4 +12,13 @@ A gateway is a function within an EcuInstance that performs as a FrameMapping, I
 
 1. Add Number of Gateways → Short Name → Select ECU→ Save Number of Gateways.
 
-2. Add → Select PDU Mapping→ PDU Max Length → PDUR TP Chunk Size →Select Source Cluster → Select Source Channel →Select Source PDU→ Select Target Cluster→ Select Target Channel → Select Target PDU → Save Number of Contained I PDUs.
+2. Add → Select PDU Mapping→ PDU Max Length → PDUR TP Chunk Size →Select Source Cluster → Select Source Channel →Select Source PDU→ Select Target Cluster→ Select Target Channel → Select Target PDU → Save Number of Contained | PDUs.
+
+<div class="text--center">
+
+<figure>
+
+![Gateway](./assets/image45.webp "- Gateway")
+<figcaption>Fig. Gateway</figcaption>
+</figure>
+</div>

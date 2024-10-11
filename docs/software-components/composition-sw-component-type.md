@@ -14,4 +14,11 @@ Composition Software Component Type aggregates Software Component Prototypes. Th
 
 2. Add Number of Assembly Connectors → Select Provided Components → Select Required Component → Select Provided Port → Select Required Port → Save.
 
-fig
+<div class="text--center">
+
+<figure>
+
+![Composition SW Component Type](../assets/image24.webp "- Composition SW Component Type")
+<figcaption>Fig. Composition SW Component Type </figcaption>
+</figure>
+</div>
