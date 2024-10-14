@@ -73,7 +73,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/eeacom-social-card.jpg',
       navbar: {
         title: 'EEA COM Documentation',
         logo: {
