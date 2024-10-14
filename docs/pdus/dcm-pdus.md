@@ -8,6 +8,8 @@ sidebar_label: "DCM I PDUs"
 
 # 5.2 DCM I PDUs 
 
+DCM I PDUs always dynamic length
+
 1. Add DCM I PDU → Short Name → Length(Bytes) → Diag Type(DIAGREQUEST and DIAGRESPONSE) → Save.
 
 <div class="text--center">

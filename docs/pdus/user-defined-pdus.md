@@ -8,6 +8,8 @@ sidebar_label: "User Defined PDUs"
 
 # 5.10 User Defined PDUs 
 
+UserDefinedPdu allows to describe PDU-based communication over Complex Drivers. If a new BSW module is added above the BusIf (e.g. a new Nm module) then this Pdu element shall be used to describe the communication.
+
 Add User Defined PDU → Short Name → Length → Save.
 
 <div class="text--center">

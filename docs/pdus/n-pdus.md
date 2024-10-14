@@ -8,7 +8,8 @@ sidebar_label: "N PDUs"
 
 # 5.8 N PDUs
 
-Whenever the PDU is in layers below PDUR and above the Communication Drivers layer  then it is called N-PDU.
+Whenever the PDU is in layers below PDUR and above Communication Drivers layer then its called N-PDU.
+
 Add N PDU → Short Name→ Length→ Save.
 
 <div class="text--center">

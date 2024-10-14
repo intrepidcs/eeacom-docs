@@ -8,6 +8,10 @@ sidebar_label: "Signal I PDUs"
 
 # 5.1 Signal I PDUs 
 
+The ISignalIPdu assembled and disassembled in AUTOSAR COM consists of one or more signals. In case no multiplexing is performed this IPdu is routed to/from the Interface Layer.
+
+A maximum of one dynamic length signal per IPdu is allowed.
+
 Steps to create I Signals I PDU is shown in below snap -
 
 <div class="text--center">

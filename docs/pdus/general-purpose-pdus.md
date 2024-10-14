@@ -8,6 +8,8 @@ sidebar_label: "General Purpose PDUs"
 
 # 5.4 General Purpose PDUs 
 
+This element is used for AUTOSAR Pdus without additional attributes that are routed by a bus interface.
+
 Add General Purpose PDU → Length(Bytes) → Save.
 
 <div class="text--center">
