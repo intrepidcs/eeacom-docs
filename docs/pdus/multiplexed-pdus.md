@@ -3,17 +3,17 @@ title: Multiplexed PDU Configuration in AUTOSAR ARXML - Advanced Data Handling
 description: Configure Multiplexed Protocol Data Units (PDUs) in AUTOSAR ARXML files with detailed parameters such as short names, lengths, and selector field configurations. Define trigger modes and manage both dynamic and static parts to enhance data handling efficiency. Set segment byte orders and lengths for precise multiplexing, ensuring effective communication across automotive networks.
 keywords: [Multiplexed PDU, AUTOSAR ARXML, Short Name, Length, Selector Field, Trigger Mode, Dynamic Part, Static Part, Segment Length, Signal Management]
 sidebar_position: 6
-sidebar_label: "Multiplexed | PDUs"
+sidebar_label: "Multiplexed I PDUs"
 ---
 
-# 5.6 Multiplexed | PDUs
+# 5.6 Multiplexed I PDUs
 
 <div class="text--center">
 
 <figure>
 
-![Multiplexed | PDUs](../assets/image10.webp "- Multiplexed | PDUs")
-<figcaption>Fig. Multiplexed | PDUs </figcaption>
+![Multiplexed I PDUs](../assets/image10.webp "- Multiplexed I PDUs")
+<figcaption>Fig. Multiplexed I PDUs </figcaption>
 </figure>
 </div>
 

@@ -3,10 +3,10 @@ title: Secured PDU Configuration in AUTOSAR ARXML - Enhanced Communication Secur
 description: Configure Secured Protocol Data Units (PDUs) in AUTOSAR ARXML files, defining parameters such as short names, lengths, and metadata lengths. Specify cryptographic properties, secure communication settings, and authentication algorithms to enhance data security. Manage payload and freshness properties to ensure secure and reliable communication across automotive networks.
 keywords: [Secured PDU, AUTOSAR ARXML, Short Name, Length, Meta Data Length, Cryptographic PDU, Secure Communication, Authentication, Freshness Properties]
 sidebar_position: 9
-sidebar_label: "Secured | PDUs"
+sidebar_label: "Secured I PDUs"
 ---
 
-# 5.9 Secured | PDUs
+# 5.9 Secured I PDUs
 
 1. Add  Secured I PDU→ Short Name → Length → Meta DataLength → Has Dynamic Length(True and False)→ Use As Cryptographic I PDU(True and False) → Use Secured PDU Header→ Save.
 
@@ -25,8 +25,8 @@ sidebar_label: "Secured | PDUs"
 
 <figure>
 
-![Secured | PDUs](../assets/image1.webp "- Secured | PDUs")
-<figcaption>Fig. Secured | PDUs</figcaption>
+![Secured I PDUs](../assets/image1.webp "- Secured I PDUs")
+<figcaption>Fig. Secured I PDUs</figcaption>
 </figure>
 </div> 
 
@@ -34,8 +34,8 @@ sidebar_label: "Secured | PDUs"
 
 <figure>
 
-![Payload in Secured | PDUs](../assets/image52.webp "- Payload in Secured | PDUs")
-<figcaption>Payload in Secured | PDUs</figcaption>
+![Payload in Secured I PDUs](../assets/image52.webp "- Payload in Secured I PDUs")
+<figcaption>Payload in Secured I PDUs</figcaption>
 </figure>
 </div>
 
@@ -43,7 +43,7 @@ sidebar_label: "Secured | PDUs"
 
 <figure>
 
-![Freshness Props In Secured | PDUs](../assets/image34.webp "- Freshness Props In Secured | PDUs")
-<figcaption>Fig. Freshness Props In Secured | PDUs</figcaption>
+![Freshness Props In Secured I PDUs](../assets/image34.webp "- Freshness Props In Secured I PDUs")
+<figcaption>Fig. Freshness Props In Secured I PDUs</figcaption>
 </figure>
 </div>

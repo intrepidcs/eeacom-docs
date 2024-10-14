@@ -3,10 +3,10 @@ title: Container PDU Configuration in AUTOSAR ARXML - Management of Metadata and
 description: Configure Container Protocol Data Units (PDUs) in AUTOSAR ARXML files by defining essential parameters such as short names, lengths, metadata lengths, and container timeouts. Manage triggers, header types, and select appropriate ECUs and PDUs for optimal communication. Utilize collection semantics (LAST BEST and QUEUED) to ensure efficient data handling and processing within your automotive system.
 keywords: [Container, PDU, AUTOSAR ARXML, Short Name, Length, Meta Data Length, Container Timeout, Container Trigger, Header Type, Rx ECU, Tx ECU, Collection Semantics]
 sidebar_position: 3
-sidebar_label: "Container | PDUs"
+sidebar_label: "Container I PDUs"
 ---
 
-# 5.3 Container | PDUs
+# 5.3 Container I PDUs
 
 1. Add Container I PDU → Short Name → Length → Meta Data Length → Container Timeout → Container Trigger → Header Type → Rx Accept Contained I PDU → Threshold Size → Save.
    
@@ -16,7 +16,7 @@ sidebar_label: "Container | PDUs"
 
 <figure>
 
-![Container | PDUs](../assets/image6.webp "- Container | PDUs")
-<figcaption>Fig. Container | PDUs</figcaption>
+![Container I PDUs](../assets/image6.webp "- Container I PDUs")
+<figcaption>Fig. Container I PDUs</figcaption>
 </figure>
 </div>

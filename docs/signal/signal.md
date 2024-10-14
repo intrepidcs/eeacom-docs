@@ -10,8 +10,8 @@ sidebar_label: Signals
 
 The Signals tab on EEA COM software shows two things as follows.
 
-1. | Signals
-2. | Signal Groups
+1. I Signals
+2. I Signal Groups
 
 
 
