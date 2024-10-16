@@ -8,9 +8,9 @@ sidebar_label: "Multiplexed I PDUs"
 
 # 5.6 Multiplexed I PDUs
 
-A Multiplexed I Pdu contains a DynamicPart, an optional StaticPart and a selectorField. In case of multiplexing this IPdu is routed between the Pdu Multiplexer and the Interface Layer.
+A Multiplexed I PDU contains a DynamicPart, an optional StaticPart and a selectorField. In case of multiplexing this I PDU is routed between the PDU Multiplexer and the Interface Layer.
 
-A multiplexer is used to define variable parts within an IPdu that may carry different signals. The receivers of such a IPdu can determine which signalPdus are transmitted by evaluating the selector field, which carries a unique selector code for each sub-part.
+A multiplexer is used to define variable parts within an I PDU that may carry different signals. The receivers of such a I PDU can determine which signal PDUs are transmitted by evaluating the selector field, which carries a unique selector code for each sub-part.
 
 <div class="text--center">
 
