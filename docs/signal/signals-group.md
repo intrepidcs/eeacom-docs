@@ -8,7 +8,7 @@ sidebar_label: "I  Signals Group"
 
 # 6.2 I Signals Group
 
-A Signal Group is a set of signals to be transmitted at the same instance and the signals packed in a Signal Group are known as Group Signals. In the i signal group we create or select the more I signals. And we added multiple I Signal Groups also.
+A Signal Group is a set of signals to be transmitted at the same instance and the signals packed in a Signal Group are known as Group Signals. In the I signal group we create or select the more I signals. And we added multiple I Signal Groups also.
 
 <div class="text--center">
 
