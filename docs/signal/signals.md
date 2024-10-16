@@ -7,9 +7,9 @@ sidebar_label: "I Signals"
 ---
 
 # 6.1 I Signals
-In I Signals add the signals ,save and delete options are available.I Signals we can assign short name, length in bits, units and Long name.
+In I Signals add the signals, save and delete options are available. I Signals we can assign short name, length in bits, units and Long name.
 
-Steps to create I Signals is shown in below snap -
+Steps to create I Signals are shown in below snap -
 
 <div class="text--center">
 
@@ -20,7 +20,7 @@ Steps to create I Signals is shown in below snap -
 </figure>
 </div>
 
-In signals we select or create the data types .
+In signals, we select or create the data types.
 1. Base Type
 2. Compute Method
 3. Data constraint
