@@ -1,5 +1,5 @@
 ---
-title: "FlexRay Cluster Configuration in AUTOSAR ARXML - Channels, Frame Triggering, and ECU Connectors"
+title: "FlexRay Cluster Configuration: Channels, Frame Triggering, & ECU Connectors"
 description: Learn how to configure FlexRay Clusters in AUTOSAR ARXML files using EEA COM. Define FlexRay channels, manage frame triggering, set ECU connectors, and configure communication cycles for efficient FlexRay communication.
 keywords: [FlexRay Cluster, AUTOSAR ARXML, FlexRay Channels, Frame Triggering, ECU Connector, Message ID, Communication Cycle, Tx ECU, Rx ECU, Baudrate, Protocol Version]
 sidebar_position: 4

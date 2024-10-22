@@ -1,6 +1,6 @@
 ---
-title: "EEA COM Expert: Comprehensive Management of CAN, Ethernet, LIN, FlexRay, and J1939 Clusters"
-description: Explore EEA COM Expert's cluster management capabilities, including CAN, Ethernet, LIN, FlexRay, and J1939. Add, edit, and configure ECUs, frame triggerings, and more for efficient network design. Ideal for automotive engineers working with AUTOSAR communication systems.
+title: "EEEA COM Expert: Managing CAN, Ethernet, LIN, FlexRay, J1939 Clusters"
+description: Explore EEA COM Expert's cluster management for CAN, Ethernet, LIN, FlexRay, and J1939. Ideal for automotive engineers designing AUTOSAR communication systems.
 keywords: [EEA COM Expert, clusters, CAN cluster, Ethernet cluster, LIN cluster, FlexRay cluster, J1939 cluster, ECU connectors, network management, AUTOSAR, automotive communication]
 sidebar_position: 3
 sidebar_label: Clusters

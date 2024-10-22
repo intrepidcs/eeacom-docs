@@ -1,6 +1,6 @@
 ---
-title: ECU Configuration in AUTOSAR ARXML - Diagnostic Address, Sleep Mode, and Frame Details
-description: Configure ECU settings in AUTOSAR ARXML files using EEA COM. Define the ECU’s short name, diagnostic address, sleep mode support, and wake-up over bus capability. Manage CAN, LIN, and FlexRay frame details along with PDU and signal parameters across clusters.
+title: ECU Configuration in AUTOSAR: Diagnostic Address, Sleep Mode, & Frame Details
+description: Configure ECU settings in AUTOSAR ARXML with EEA COM. Define short name, diagnostic address, sleep mode, wake-up capabilities, and manage CAN, LIN, FlexRay frame details, PDU, and signal parameters.
 keywords: [ECU, AUTOSAR ARXML, Diagnostic Address, Sleep Mode, Wake Up Over Bus, CAN Frame, LIN Frame, FlexRay Frame, PDU Details, Signal Details, ECU Configuration]
 sidebar_position: 4
 sidebar_label: ECU

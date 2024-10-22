@@ -1,6 +1,6 @@
 ---
-title: "LIN Cluster Configuration in AUTOSAR ARXML - ECU Connector, Frame Triggering, and Schedule Tables"
-description: Configure LIN Clusters in AUTOSAR ARXML files using EEA COM. Define LIN nodes, set ECU connectors, and manage frame triggering (sporadic, unconditional, and event-triggered) along with schedule tables for optimized LIN communication.
+title: "LIN Cluster Configuration: ECU Connector, Frame Triggering, & Schedule Tables"
+description: Configure LIN clusters in AUTOSAR ARXML with EEA COM. Define LIN nodes, set ECU connectors, manage frame triggering, and schedule tables for optimized LIN communication.
 keywords: [LIN Cluster, AUTOSAR ARXML, LIN Nodes, LIN Master, LIN Slave, LIN Bus, LIN Frame Triggering, ECU Connector, Schedule Tables, Baudrate, PNC Gateway, LDF, LIN Checksum]
 sidebar_position: 3
 sidebar_label: LIN Cluster

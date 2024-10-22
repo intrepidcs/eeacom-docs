@@ -1,6 +1,6 @@
 ---
-title: "Ethernet Cluster Configuration in AUTOSAR ARXML Files - VLANs, MAC Multicast, and SOME/IP Service"
-description: Configure Ethernet Clusters in AUTOSAR ARXML files with EEA COM, including MAC Multicast Addresses, VLANs, Network Endpoints, Socket Connections, and SOME/IP Services. Add ECUs, setup socket addresses, and manage PDU details for optimal network performance.
+title: "Ethernet Cluster Configuration: VLANs, MAC Multicast, SOME/IP in AUTOSAR"
+description: Configure Ethernet clusters in AUTOSAR ARXML with EEA COM. Manage MAC Multicast, VLANs, socket connections, SOME/IP services, ECUs, and PDUs for optimal network performance.
 keywords: [Ethernet Cluster, AUTOSAR ARXML, MAC Multicast Address, VLANs, Network Endpoint, ECU Connectors, Socket Connections, SOME/IP Service, multicast, PDU, ECU, IP Address, Baudrate, IEEE 802.3]
 sidebar_position: 2
 sidebar_label: Ethernet Cluster
