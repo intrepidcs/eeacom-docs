@@ -1,6 +1,6 @@
 ---
-title: Ethernet Frame Configuration in AUTOSAR ARXML - PDU and Data Structure Management
-description: Configure Ethernet Frames in AUTOSAR ARXML files by defining short names and lengths. Manage PDUs by selecting types, specifying packing byte orders, and updating indication positions. Understand the structure of Ethernet frames, including headers, data, and Frame Check Sequence (FCS), for effective communication in networked environments.
+title: "Ethernet Frame Configuration: PDU & Data Structure Management"
+description: Configure Ethernet frames in AUTOSAR ARXML by managing frame names, lengths, PDUs, and byte orders. Understand Ethernet frame structures, including headers, data, and FCS for effective network communication.
 keywords: [Ethernet Frames, AUTOSAR ARXML, MAC Addresses, Frame Check Sequence, PDU, Packing Byte Order, Short Name, Frame Length]
 sidebar_position: 6
 sidebar_label: Ethernet Frames

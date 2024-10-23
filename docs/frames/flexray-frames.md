@@ -1,6 +1,6 @@
 ---
-title: FlexRay Frame Configuration in AUTOSAR ARXML - PDU and Data Management
-description: Configure FlexRay Frames in AUTOSAR ARXML files to leverage high data rates and fault tolerance. Assign short names and lengths to frames, and manage PDUs by selecting types, defining packing byte orders, and updating indication positions for effective communication in time-triggered and event-triggered scenarios.
+title: "FlexRay Frame Configuration: PDU & Data Management in AUTOSAR"
+description: Configure FlexRay frames in AUTOSAR ARXML for high data rates and fault tolerance. Manage frame names, lengths, PDUs, byte orders, and indication positions for efficient time and event-triggered communication.
 keywords: [FlexRay Frames, AUTOSAR ARXML, Communication Bus, High Data Rates, Fault Tolerance, PDU, Packing Byte Order, Short Name, Frame Length]
 sidebar_position: 5
 sidebar_label: FlexRay Frames

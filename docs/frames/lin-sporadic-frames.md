@@ -1,6 +1,6 @@
 ---
-title: LIN Sporadic Frame Configuration in AUTOSAR ARXML - Dynamic Behavior and Signal Management
-description: Configure LIN Sporadic Frames in AUTOSAR ARXML files to introduce dynamic behavior in your LIN communication. Add frames with specific short names and lengths, and manage frame IDs to ensure proper data handling. Utilize options to add or remove frames while maintaining accurate signal transmission.
+title: "LIN Sporadic Frame Configuration: Dynamic Behavior & Signal Management"
+description: Configure LIN sporadic frames in AUTOSAR ARXML with dynamic behavior. Add frames, manage IDs, and ensure accurate signal transmission for efficient LIN communication.
 keywords: [LIN Sporadic Frames, AUTOSAR ARXML, Dynamic Behavior, Signal Management, Short Name, Frame Length, Slave Task, Master Node, Frame ID]
 sidebar_position: 2
 sidebar_label: LIN Sporadic Frames
