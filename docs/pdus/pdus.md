@@ -1,6 +1,6 @@
 ---
-title: PDU Management in AUTOSAR ARXML - Packing Signals and Unique Identifiers
-description: Manage Protocol Data Units (PDUs) in AUTOSAR ARXML files using EEA COM. Understand the role of PDUs in signal transmission and reception, and explore the unique identifiers associated with each PDU. Utilize the PDUs tab to copy, paste, and create duplicate signals for efficient data handling in your communication architecture.
+title: "PDU Management in AUTOSAR: Packing Signals & Unique Identifiers"
+description: Manage PDUs in AUTOSAR ARXML with EEA COM. Explore PDU roles in signal transmission, unique identifiers, and efficiently handle data by copying, pasting, and duplicating signals.
 keywords: [PDU, Protocol Data Units, AUTOSAR ARXML, Signal Packing, Transmission, Reception, Unique Identifier, EEA COM, Copy and Paste Signals, Duplicate Signals]
 sidebar_position: 6
 sidebar_label: PDUs (Protocol Data Units)

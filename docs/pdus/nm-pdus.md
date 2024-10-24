@@ -1,6 +1,6 @@
 ---
-title: NM PDU Configuration in AUTOSAR ARXML - Network Management Data Handling
-description: Configure Network Management (NM) Protocol Data Units (PDUs) in AUTOSAR ARXML files by defining essential parameters such as short names, lengths, NM data information, and NM vote information. Enhance signal management by creating or selecting signals, specifying types, packing byte orders, and transfer properties. Ensure effective network management communication and data handling in automotive systems.
+title: "NM PDU Configuration: Network Management Data Handling in AUTOSAR"
+description: Configure NM PDUs in AUTOSAR ARXML by defining names, lengths, NM data, and vote information. Enhance signal management and ensure effective communication in automotive network management.
 keywords: [NM PDU, AUTOSAR ARXML, Short Name, Length, NM Data Information, NM Vote Information, Signal Management, Packing Byte Order]
 sidebar_position: 7
 sidebar_label: "NM PDUs"

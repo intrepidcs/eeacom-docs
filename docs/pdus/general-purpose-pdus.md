@@ -1,6 +1,6 @@
 ---
-title: General Purpose PDU Configuration in AUTOSAR ARXML - Simple Data Management
-description: Easily configure General Purpose Protocol Data Units (PDUs) in AUTOSAR ARXML files by specifying the length in bytes. Streamline your data management processes with straightforward PDU configuration to support various communication requirements within your automotive system.
+title: "General Purpose PDU Configuration: Simple Data Management in AUTOSAR"
+description: Easily configure General Purpose PDUs in AUTOSAR ARXML by specifying byte lengths. Streamline data management for various communication needs within your automotive system.
 keywords: [General Purpose PDU, AUTOSAR ARXML, Length, Data Management, Protocol Data Unit]
 sidebar_position: 4
 sidebar_label: "General Purpose PDUs"

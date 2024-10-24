@@ -1,6 +1,6 @@
 ---
-title: Secure Communication Properties Configuration in AUTOSAR ARXML - Enhanced Data Security
-description: Configure Secure Communication Properties in AUTOSAR ARXML files, defining essential parameters such as authentication and freshness properties. Set up security protocols with customizable authentication algorithms and freshness counters to ensure robust cryptographic communication in automotive systems. Enhance data integrity and protection across secure
+title: "Secure Communication Properties: Enhanced Data Security in AUTOSAR"
+description: Configure secure communication properties in AUTOSAR ARXML by defining authentication and freshness parameters. Set up customizable security protocols for robust cryptographic communication and data integrity in automotive systems.
 keywords: [Secure Communication Props, AUTOSAR ARXML, Authentication Props, Freshness Props, Secure PDU, Cryptography, Data Security]
 sidebar_position: 12
 sidebar_label: "Secure Communication Props Set"

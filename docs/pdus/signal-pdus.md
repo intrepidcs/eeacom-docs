@@ -1,6 +1,6 @@
 ---
-title: Signal and PDU Configuration in AUTOSAR ARXML - Steps for Creation and Management
-description: Follow the steps to create Signals and Protocol Data Units (PDUs) in AUTOSAR ARXML files. Add I Signals and PDUs by defining short names, lengths, and minimum delays. Manage signal properties by selecting base types, compute methods, data constraints, implementation data types, and data transformations to ensure effective communication and data handling.
+title: "Signal & PDU Configuration: Creation & Management in AUTOSAR"
+description: Create and manage signals and PDUs in AUTOSAR ARXML. Define names, lengths, and delays, and manage signal properties like base types, data constraints, and transformations for effective communication.
 keywords: [Signal, PDU, AUTOSAR ARXML, Short Name, Length, Minimum Delay, Base Type, Compute Method, Data Constraint, Implementation Data Type, Data Transformation]
 sidebar_position: 1
 sidebar_label: "Signal I PDUs"

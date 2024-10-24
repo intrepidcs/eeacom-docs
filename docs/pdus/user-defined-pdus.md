@@ -1,6 +1,6 @@
 ---
-title: User Defined PDU Configuration in AUTOSAR ARXML - Custom Data Management
-description: Configure User Defined Protocol Data Units (PDUs) in AUTOSAR ARXML files by specifying essential parameters such as short names and lengths. Tailor your communication structure to meet specific application requirements, enabling efficient and flexible data management within automotive systems.
+title: "User-Defined PDU Configuration: Custom Data Management in AUTOSAR"
+description: Configure user-defined PDUs in AUTOSAR ARXML by specifying names and lengths. Tailor your communication structure for efficient and flexible data management in automotive systems.
 keywords: [User Defined PDU, AUTOSAR ARXML, Short Name, Length, Custom Protocol Data Units]
 sidebar_position: 10
 sidebar_label: "User Defined PDUs"

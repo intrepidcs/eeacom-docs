@@ -1,6 +1,6 @@
 ---
-title: DCM PDU Configuration in AUTOSAR ARXML - Diagnostic Request and Response Management
-description: Configure Diagnostic Communication Manager (DCM) Protocol Data Units (PDUs) in AUTOSAR ARXML files. Add DCM PDUs by defining short names, lengths, and diagnostic types (DIAGREQUEST and DIAGRESPONSE) to streamline communication in automotive diagnostics. Ensure effective management of diagnostic requests and responses for robust system performance.
+title: "DCM PDU Configuration: Diagnostic Request & Response Management"
+description: Configure DCM PDUs in AUTOSAR ARXML by defining names, lengths, and types (DIAGREQUEST and DIAGRESPONSE) to streamline automotive diagnostics and manage requests and responses effectively.
 keywords: [DCM, PDU, AUTOSAR ARXML, Short Name, Length, Diagnostic Type, DIAGREQUEST, DIAGRESPONSE]
 sidebar_position: 2
 sidebar_label: "DCM I PDUs"
