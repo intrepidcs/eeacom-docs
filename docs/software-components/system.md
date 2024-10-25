@@ -1,6 +1,6 @@
 ---
 title: System Configuration in AUTOSAR
-description: Explore how to configure systems in AUTOSAR by adding various system categories, including SYSTEM_CONSTRAINTS and SYSTEM_DESCRIPTION. Learn to define root compositions and establish SWC to ECU mappings, connecting application software components to their target ECU configurations. Enhance your understanding of system architecture within the AUTOSAR framework.
+description: Explore how to configure systems in AUTOSAR by adding categories like SYSTEM_CONSTRAINTS and SYSTEM_DESCRIPTION. Define root compositions and map SWCs to ECUs, enhancing your understanding of system architecture in AUTOSAR.
 keywords: [AUTOSAR, System Configuration, Root Composition, SWC to ECU Mappings, Software Components, ECU Architecture]
 sidebar_position: 4
 sidebar_label: System  

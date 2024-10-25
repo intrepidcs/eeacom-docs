@@ -1,6 +1,6 @@
 ---
-title: Configuring Application Data Type (Array) in EEA COM - AUTOSAR Array Data Types
-description: Learn to configure Application Data Types (Array) in EEA COM for AUTOSAR systems. Define array types with fixed or variable sizes, and set dimensions. Manage ECU data with custom arrays based on primitive or defined data types. Optimize communication and processing with flexible array structures.
+title: "Configuring Application Data Type (Array): AUTOSAR Arrays in EEA COM"
+description: Configure Application Data Types (Array) in EEA COM for AUTOSAR systems. Define fixed or variable array sizes, set dimensions, and manage ECU data with flexible array structures.
 keywords: [Application Data Type, Array, EEA COM, AUTOSAR, Array Size Semantics, Multidimensional Array, Primitive Type, ECU Data Management]
 sidebar_position: 2
 sidebar_label: "Application Data Type (Array)"

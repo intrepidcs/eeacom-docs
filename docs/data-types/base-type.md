@@ -1,6 +1,6 @@
 ---
-title: "Defining Base Types in EEA COM: Categories, Encoding, and Memory Alignment"
-description: Discover how to define base types in EEA COM, including options for category, base type encoding, and memory alignment. Learn about byte order configurations and native declaration types for enhanced control over ECU data structures.
+title: "Defining Base Types: Categories, Encoding & Memory Alignment in EEA COM"
+description: Define base types in EEA COM, setting categories, encoding, and memory alignment. Configure byte order and native declarations for precise ECU data structure control.
 keywords: [Base Type, EEA COM, Fixed Length, Base Type Encoding, Byte Order, Memory Alignment, AUTOSAR, Native Declaration, ECU Data Types, Signed and Unsigned]
 sidebar_position: 4
 sidebar_label: "Base Type"

@@ -1,6 +1,6 @@
 ---
-title: Configuring Compute Methods in EEA COM - Linear, State Encoded & Scale-Linear Transformations
-description: Learn to configure compute methods in EEA COM for transforming raw ECU data into physical values. Explore types like Identical, Linear, State Encoded, Scale Linear, and Bit Field State Encode. Customize the conversion process to improve ECU communication and processing.
+title: "Configuring Compute Methods: Linear, State Encoded & Scale-Linear in EEA COM"
+description: Configure compute methods in EEA COM to transform raw ECU data into physical values. Use methods like Identical, Linear, State Encoded, and Scale Linear for customized data conversion.
 keywords: [Compute Method, Linear Transformation, State Encoded, Scale Linear, Bit Field State Encode, AUTOSAR, EEA COM, ECU Data Conversion, Raw to Physical Values]
 sidebar_position: 3
 sidebar_label: "Compute Method"
